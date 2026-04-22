@@ -9,7 +9,7 @@ X = [
     [360,9.5]
 ]
 
-Y = [0,0,0,1,1,1] #Note that 0 = Apple and 1 = Orange
+Y = [0,0,0,1,1,1] #Note that 0 = Apple and 1 = Orang
 
 model = KNeighborsClassifier(n_neighbors=3)
 model.fit(X,Y)
