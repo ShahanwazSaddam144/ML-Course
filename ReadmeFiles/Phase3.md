@@ -124,3 +124,8 @@ if predication == 0:
 
 else:
     print("It's is likely to be orange")
+-------------------------------------------
+
+Note:
+   "[0] including this means it gives a number not a lsit otherwise it returns a list like if 
+   answers is 1 so it gives [1], which is wrong".
